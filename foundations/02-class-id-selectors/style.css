@@ -1,0 +1,20 @@
+.one {
+    background-color: pink;
+    font-weight: bold;
+}
+
+#unique {
+    color: blue;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.cool {
+    font-size: larger;
+}
+
+#anotherID {
+    background-color: greenyellow;
+    font-size: x-large;
+    font-weight: bolder;
+}
